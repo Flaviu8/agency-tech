@@ -34,3 +34,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+Change content on website:
+Landing page
+header text ( to be more appropiate for a developers agency )
+about us from landing page 
+carousel of icons , use technology icons instead of company
+Our services ( change to services which we doing ) software engineering etc.
+working process, make more appropiate from what we doing or how we handle situation and problems
+remove images from testimonials
+
+Remove portofolio content and portofolio details
+
+
+Faq, use some faq to be approiate of developers agency
+
+Service page:
+
+Add only services we doing and remove pricing plan and pictures from feedback and reviews
+
+Also make pages to have service details each services in detailed page. Just few important skills detailed
